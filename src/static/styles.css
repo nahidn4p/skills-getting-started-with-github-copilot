@@ -160,3 +160,19 @@ footer {
   color: #555;
   font-size: 14px;
 }
+
+/* New styles */
+.participants-section ul {
+  list-style-type: none; /* Hides the bullet points */
+  padding-left: 0;
+}
+
+.delete-icon {
+  color: #c62828;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.delete-icon:hover {
+  color: #a52727;
+}
